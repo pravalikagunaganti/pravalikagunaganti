@@ -21,7 +21,7 @@ Data Analytics & Software Testing
 | Project | Tech | Link |
 |---|---|---|
 | Data Validation Tool | Python, Pandas, SQL | [View](https://github.com/pravalikagunaganti/data-validation-tool) |
-| TB Image Segmentation | Python, MATLAB, U-Net | [View](https://github.com/pravalikagunaganti/tb-image-segmentation) |
+| TB Image Segmentation | Python, MATLAB | [View](https://github.com/pravalikagunaganti/tb-image-segmentation) |
 
 ---
 
