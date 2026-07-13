@@ -1,8 +1,4 @@
-<!-- ======================= BANNER ======================= -->
 
-<p align="center">
-<img src="YOUR_BANNER_URL" width="100%">
-</p>
 
 <h1 align="center">GUNAGANTI PRAVALIKA</h1>
 
