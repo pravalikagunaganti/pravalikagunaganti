@@ -1,32 +1,45 @@
-# Hi 👋, I'm Gunaganti Pravalika
+<h1 align="center">GUNAGANTI PRAVALIKA</h1>
 
-<h3 align="center">Electronics and Communication Engineering Graduate | SQL | Python | Power BI | Data Analysis</h3>
+<h3 align="center">
+Electronics & Communication Engineering Graduate | Software Engineering | Data Analysis | SQL | Python | MS Excel | Power BI
+</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pravalika-gunagantiti-5a333a304">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:pravalikagunaganti16@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/pravalikagunaganti">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+Open to Software Engineering • Technology • Data Analytics • Business Intelligence • Graduate Engineer Opportunities
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/pravalika-gunagantiti-5a333a304">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:pravalikagunaganti16@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/pravalikagunaganti">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
 
 # 💫 About Me
 
-🎓 Electronics and Communication Engineering Graduate passionate about technology, software development, and data-driven problem solving.
+Electronics and Communication Engineering graduate with hands-on experience in **SQL, Python, MS Excel, Power BI, Data Analysis, Data Validation, Reporting, and Documentation** through academic projects and internships. Experienced in analyzing datasets, developing interactive dashboards, validating data, and creating structured reports to support business decisions. Passionate about software engineering, data-driven solutions, automation, and continuous learning. Strong analytical thinking, communication, attention to detail, and collaboration skills. Currently seeking opportunities in **Software Engineering, Technology, Data Analytics, Business Intelligence, Quality Assurance, and Business Operations**, where I can contribute, learn, and grow.
 
-💻 Hands-on experience in **SQL, Python, MS Excel, Power BI, Data Analysis, and Data Validation** through academic projects and internships.
+---
 
-📊 Interested in **Software Engineering, Data Analytics, Business Intelligence, Quality Assurance, and Technology Solutions.**
+# 🚀 Areas of Interest
 
-📚 Strong believer in continuous learning, collaboration, and building practical solutions that create business value.
-
-🚀 Currently seeking **Software Engineer, Technology Trainee, Data Analyst, QA Analyst, and Graduate Engineer** opportunities.
+- Software Engineering
+- Data Analysis
+- Business Intelligence
+- Technology Solutions
+- Business Reporting
+- Data Validation
+- Automation
+- Quality Assurance
 
 ---
 
@@ -38,17 +51,13 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
----
-
 ### Data Analytics
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
----
 
 ### Development & Tools
 
@@ -63,36 +72,32 @@
 
 ## 📊 Retail Analytics & Business Insights Dashboard
 
-✔ SQL  
-✔ Power BI  
-✔ MS Excel  
-✔ Business Reporting
+**Technologies:** SQL • Power BI • MS Excel
 
-🔗 https://github.com/pravalikagunaganti/retail-business-intelligence-profitability-analytics
+- Analyzed and validated **9,994 retail records** using SQL and Excel.
+- Built interactive Power BI dashboards to visualize KPIs and business performance.
+- Generated reports to support data-driven business decisions.
+
+🔗 Repository:
+https://github.com/pravalikagunaganti/retail-business-intelligence-profitability-analytics
 
 ---
 
 ## 📈 Customer Churn Analysis
 
-✔ SQL
+**Technologies:** SQL • Power BI
 
-✔ Power BI
-
-✔ Data Analysis
-
-✔ Data Validation
+- Processed and analyzed customer datasets.
+- Developed dashboards to identify churn trends and support business reporting.
 
 ---
 
 ## 🐍 Python Data Processing & Validation Tool
 
-✔ Python
+**Technologies:** Python
 
-✔ Data Validation
-
-✔ Exception Handling
-
-✔ Automation
+- Automated data validation and processing.
+- Implemented exception handling and generated structured outputs.
 
 ---
 
@@ -116,16 +121,12 @@
 
 # 📫 Connect With Me
 
-📧 **Email**
+📧 **Email:** pravalikagunaganti16@gmail.com
 
-pravalikagunaganti16@gmail.com
-
-💼 **LinkedIn**
-
+💼 **LinkedIn:**  
 https://www.linkedin.com/in/pravalika-gunagantiti-5a333a304
 
-🐙 **GitHub**
-
+🐙 **GitHub:**  
 https://github.com/pravalikagunaganti
 
 ---
@@ -136,4 +137,4 @@ https://github.com/pravalikagunaganti
 
 </p>
 
-⭐ *Thanks for visiting my GitHub profile!*
+⭐ **Thank you for visiting my GitHub profile!**
